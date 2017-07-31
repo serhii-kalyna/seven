@@ -1002,6 +1002,10 @@ main #col2{
 	/*border: 1px solid black;*/
 }
 
+#col2 .tags h2.title{
+	width: 95px;
+}
+
 #col2 .tags #block-tag{
 	position: absolute;
 	margin-top: 24px;
@@ -1039,6 +1043,10 @@ main #col2{
 	width: 283px;
 	height: 144px;
 	/*border: 1px solid black;*/
+}
+
+#col2 .new-let h2.title{
+	width: 55px;
 }
 
 #col2 .new-let #block-letter{
